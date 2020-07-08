@@ -90,7 +90,7 @@ public class PDHmain extends JDialog {
                     /*pmanField;
                     pmanemailField*/
                     try {
-                        GenerateDoc.genDoc(new String[]{usernameField.getText(), passwordField.getText(), provField.getText(), directoryField.getText()});
+                        GenerateDoc.genDoc(directoryField.getText(),new String[]{usernameField.getText(), passwordField.getText(), provField.getText(), directoryField.getText()});
                     } catch (Docx4JException ex) {
                         ex.printStackTrace();
                     }
