@@ -1,0 +1,42 @@
+Welcome to Ubuntu 18.04.4 LTS (GNU/Linux 4.15.0-109-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Wed Jul  8 14:55:59 UTC 2020
+
+  System load:  0.0                Processes:             132
+  Usage of /:   16.3% of 72.86GB   Users logged in:       0
+  Memory usage: 6%                 IP address for enp3s0: 192.168.0.172
+  Swap usage:   0%
+
+ * "If you've been waiting for the perfect Kubernetes dev solution for
+   macOS, the wait is over. Learn how to install Microk8s on macOS."
+
+   https://www.techrepublic.com/article/how-to-install-microk8s-on-macos/
+
+ * Canonical Livepatch is available for installation.
+   - Reduce system reboots and improve kernel security. Activate at:
+     https://ubuntu.com/livepatch
+
+2 csomag frissíthető.
+0 frissítés biztonsági frissítés.
+
+
+Last login: Wed Jul  8 14:55:14 2020 from 192.168.0.161
+ls
+
+cd ..
+
+ls
+
+zeusz@zeusz:~$ ls
+[0m[01;34mbackup[0m  composer.json  composer.lock  composer-setup.php  [01;34mmcszerver2[0m  [01;34mvendor[0m
+zeusz@zeusz:~$ 
+zeusz@zeusz:~$ cd ..
+zeusz@zeusz:/home$ 
+zeusz@zeusz:/home$ ls
+[0m[34;42mzeusz[0m
+zeusz@zeusz:/home$ 
+zeusz@zeusz:/home$ 

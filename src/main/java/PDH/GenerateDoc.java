@@ -100,28 +100,53 @@ public class GenerateDoc {
 
             session.connect();
 
-            Channel channel=session.openChannel("shell");
-
-            /*channel.setInputStream(System.in);
-            channel.setOutputStream(System.out);*/
+            //String command="ls";
+            File commandsFile = new File(System.getProperty("user.dir") + "/data/commands.txt");
             try{
-                FileInputStream fin = new FileInputStream(System.getProperty("user.dir") + "/data/commands.txt");
-                channel.setInputStream(fin);
+                Scanner commands = new Scanner(commandsFile);
+
+                while (commands.hasNextLine()) {
+                    Channel channel=session.openChannel("exec");
+                    //System.out.println(commands.nextLine());
+                    ((ChannelExec)channel).setCommand(commands.nextLine());
+
+                    // X Forwarding
+                    // channel.setXForwarding(true);
+
+                    //channel.setInputStream(System.in);
+                    channel.setInputStream(null);
+
+                    //channel.setOutputStream(System.out);
+
+                    //FileOutputStream fos=new FileOutputStream("/tmp/stderr");
+                    //((ChannelExec)channel).setErrStream(fos);
+                    ((ChannelExec)channel).setErrStream(System.err);
+
+                    InputStream in=channel.getInputStream();
+
+                    channel.connect();
+
+                    byte[] tmp=new byte[1024];
+                    while(true){
+                        while(in.available()>0){
+                            int i=in.read(tmp, 0, 1024);
+                            if(i<0)break;
+                            System.out.print(new String(tmp, 0, i));
+                        }
+                        if(channel.isClosed()){
+                            if(in.available()>0) continue;
+                            System.out.println("exit-status: "+channel.getExitStatus());
+                            break;
+                        }
+                        try{Thread.sleep(1000);}catch(Exception ee){}
+                    }
+                    channel.disconnect();
+                }
             } catch (IOException e) {
                 e.printStackTrace();
             }
 
-            try{
-                FileOutputStream fout = new FileOutputStream(System.getProperty("user.dir") + "/data/rawoutput.txt");
-                channel.setOutputStream(fout);
-                channel.connect();
-                //fout.close();
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-
-            /*channel.disconnect();
-            session.disconnect();*/
+            session.disconnect();
         }
         catch(Exception e){
             System.out.println(e);
