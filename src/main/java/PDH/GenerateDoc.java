@@ -87,9 +87,7 @@ public class GenerateDoc {
         try{
             JSch jsch=new JSch();
 
-            String host = JOptionPane.showInputDialog("Enter username@hostname",
-                        System.getProperty("user.name")+
-                                "@192.168.0.172");
+            String host = JOptionPane.showInputDialog("Enter username@hostname", "zeusz@192.168.0.172");
 
             String user=host.substring(0, host.indexOf('@'));
             host=host.substring(host.indexOf('@')+1);
@@ -112,8 +110,18 @@ public class GenerateDoc {
             } catch (IOException e) {
                 e.printStackTrace();
             }
-            channel.setOutputStream(System.out);
-            channel.connect();
+
+            try{
+                FileOutputStream fout = new FileOutputStream(System.getProperty("user.dir") + "/data/rawoutput.txt");
+                channel.setOutputStream(fout);
+                channel.connect();
+                //fout.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+            /*channel.disconnect();
+            session.disconnect();*/
         }
         catch(Exception e){
             System.out.println(e);
