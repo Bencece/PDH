@@ -1,0 +1,3402 @@
+null
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" 
+    xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" 
+    xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" 
+    xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" 
+    xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" 
+    xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" 
+    xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" 
+    xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" 
+    xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" 
+    xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" 
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" 
+    xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" 
+    xmlns:o="urn:schemas-microsoft-com:office:office" 
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" 
+    xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" 
+    xmlns:v="urn:schemas-microsoft-com:vml" 
+    xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" 
+    xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" 
+    xmlns:w10="urn:schemas-microsoft-com:office:word" 
+    xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" 
+    xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" 
+    xmlns:w15="http://schemas.microsoft.com/office/word/2012/wordml" 
+    xmlns:w16cid="http://schemas.microsoft.com/office/word/2016/wordml/cid" 
+    xmlns:w16se="http://schemas.microsoft.com/office/word/2015/wordml/symex" 
+    xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" 
+    xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" 
+    xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" 
+    xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 w15 w16se w16cid wp14">
+    <w:body>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="Rcsostblzat"/>
+                <w:tblW w:w="9180" w:type="dxa"/>
+                <w:jc w:val="center"/>
+                <w:tblBorders>
+                    <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                    <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                    <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                    <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                </w:tblBorders>
+                <w:shd w:val="clear" w:color="auto" w:fill="808080" w:themeFill="background1" w:themeFillShade="80"/>
+                <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="3544"/>
+                <w:gridCol w:w="5636"/>
+            </w:tblGrid>
+            <w:tr w:rsidR="00B34A65" w:rsidTr="00802D4E">
+                <w:trPr>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3544" w:type="dxa"/>
+                        <w:shd w:val="clear" w:color="auto" w:fill="808080" w:themeFill="background1" w:themeFillShade="80"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B34A65" w:rsidRPr="007E212A" w:rsidRDefault="00B34A65" w:rsidP="009B6634">
+                        <w:pPr>
+                            <w:jc w:val="right"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="36"/>
+                                <w:szCs w:val="36"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="007E212A">
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="36"/>
+                                <w:szCs w:val="36"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">Network </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="007E212A">
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="36"/>
+                                <w:szCs w:val="36"/>
+                            </w:rPr>
+                            <w:t>Name</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="007E212A">
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="36"/>
+                                <w:szCs w:val="36"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5636" w:type="dxa"/>
+                        <w:shd w:val="clear" w:color="auto" w:fill="808080" w:themeFill="background1" w:themeFillShade="80"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B34A65" w:rsidRPr="007E212A" w:rsidRDefault="00577728" w:rsidP="009B6634">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="36"/>
+                                <w:szCs w:val="36"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="36"/>
+                                <w:szCs w:val="36"/>
+                            </w:rPr>
+                            <w:t>nwName</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="0058465B" w:rsidRPr="00B34A65" w:rsidTr="00802D4E">
+                <w:trPr>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3544" w:type="dxa"/>
+                        <w:shd w:val="clear" w:color="auto" w:fill="808080" w:themeFill="background1" w:themeFillShade="80"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="0058465B" w:rsidRPr="00B34A65" w:rsidRDefault="00B34A65" w:rsidP="0058465B">
+                        <w:pPr>
+                            <w:jc w:val="right"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">VRF </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Name</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidR="0058465B" w:rsidRPr="00B34A65">
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5636" w:type="dxa"/>
+                        <w:shd w:val="clear" w:color="auto" w:fill="808080" w:themeFill="background1" w:themeFillShade="80"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="0058465B" w:rsidRPr="00B34A65" w:rsidRDefault="00577728" w:rsidP="00640A73">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:color w:val="FFFFFF" w:themeColor="background1"/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>vrfName</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w:rsidR="00640A73" w:rsidRDefault="00640A73" w:rsidP="00640A73">
+            <w:pPr>
+                <w:spacing w:after="0"/>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:p w:rsidR="00640A73" w:rsidRPr="00640A73" w:rsidRDefault="00640A73" w:rsidP="00640A73">
+            <w:pPr>
+                <w:spacing w:after="0"/>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="Rcsostblzat"/>
+                <w:tblW w:w="0" w:type="auto"/>
+                <w:jc w:val="center"/>
+                <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="3472"/>
+                <w:gridCol w:w="5740"/>
+            </w:tblGrid>
+            <w:tr w:rsidR="000B64EB" w:rsidRPr="00640A73" w:rsidTr="00267347">
+                <w:trPr>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3472" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="000B64EB" w:rsidRPr="00640A73" w:rsidRDefault="000B64EB" w:rsidP="002D1D83">
+                        <w:pPr>
+                            <w:jc w:val="right"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>IPC Configuration Manager</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5740" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="000B64EB" w:rsidRPr="00640A73" w:rsidRDefault="00577728" w:rsidP="0032174E">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>ipcName</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00E74973" w:rsidRPr="00640A73" w:rsidTr="00652EFB">
+                <w:trPr>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3472" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00E74973" w:rsidRPr="00640A73" w:rsidRDefault="00E74973" w:rsidP="00652EFB">
+                        <w:pPr>
+                            <w:jc w:val="right"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Project Manager:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5740" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00E74973" w:rsidRPr="00640A73" w:rsidRDefault="00577728" w:rsidP="00652EFB">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>444</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00E74973" w:rsidRPr="00640A73" w:rsidTr="00652EFB">
+                <w:trPr>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3472" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00E74973" w:rsidRPr="00640A73" w:rsidRDefault="00E74973" w:rsidP="00652EFB">
+                        <w:pPr>
+                            <w:jc w:val="right"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">Project </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Manager</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>’s</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Email</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5740" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00E74973" w:rsidRPr="00640A73" w:rsidRDefault="00577728" w:rsidP="00652EFB">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>pmEmail</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="000B64EB" w:rsidRPr="00E74973" w:rsidTr="00267347">
+                <w:trPr>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3472" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="000B64EB" w:rsidRPr="00E74973" w:rsidRDefault="00E74973" w:rsidP="002D1D83">
+                        <w:pPr>
+                            <w:jc w:val="right"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Other</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Contact</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Person</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5740" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="000B64EB" w:rsidRPr="00E74973" w:rsidRDefault="000B64EB" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="000B64EB" w:rsidRPr="00E74973" w:rsidTr="00267347">
+                <w:trPr>
+                    <w:jc w:val="center"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3472" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="000B64EB" w:rsidRPr="00E74973" w:rsidRDefault="000B64EB" w:rsidP="002D1D83">
+                        <w:pPr>
+                            <w:jc w:val="right"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Other</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Contact</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Person</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00E74973" w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>’s</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidR="00E74973" w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> Email</w:t>
+                        </w:r>
+                        <w:r w:rsidRPr="00E74973">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5740" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="DDD9C3" w:themeFill="background2" w:themeFillShade="E6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="000B64EB" w:rsidRPr="00E74973" w:rsidRDefault="000B64EB" w:rsidP="0032174E">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w:rsidR="00E2640D" w:rsidRDefault="00E2640D" w:rsidP="0032174E">
+            <w:pPr>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="36"/>
+                    <w:szCs w:val="36"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:tbl>
+            <w:tblPr>
+                <w:tblStyle w:val="Rcsostblzat"/>
+                <w:tblW w:w="0" w:type="auto"/>
+                <w:tblLayout w:type="fixed"/>
+                <w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+            </w:tblPr>
+            <w:tblGrid>
+                <w:gridCol w:w="3369"/>
+                <w:gridCol w:w="281"/>
+                <w:gridCol w:w="853"/>
+                <w:gridCol w:w="999"/>
+                <w:gridCol w:w="1845"/>
+                <w:gridCol w:w="1941"/>
+            </w:tblGrid>
+            <w:tr w:rsidR="00B42EE9" w:rsidRPr="00640A73" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFCC"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B42EE9" w:rsidRPr="00640A73" w:rsidRDefault="00B42EE9" w:rsidP="0032174E">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Type</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> of Network:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3650" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFCC"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00697FCE" w:rsidRPr="00B42EE9" w:rsidRDefault="00697FCE" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1852" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFCC"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00697FCE" w:rsidRPr="00B42EE9" w:rsidRDefault="00697FCE" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00B42EE9">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Any-to-Any</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1845" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFCC"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00697FCE" w:rsidRPr="00B42EE9" w:rsidRDefault="00697FCE" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00B42EE9">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Hub</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00B42EE9">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> &amp; </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00B42EE9">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Spoke</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1941" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFCC"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00697FCE" w:rsidRPr="00B42EE9" w:rsidRDefault="00482B68" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>MDR</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3650" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFCC"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00697FCE" w:rsidRPr="00B42EE9" w:rsidRDefault="00697FCE" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1852" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFCC"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00B42EE9" w:rsidRDefault="00577728" w:rsidP="00C26F90">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>AtoA</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1845" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFCC"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005C185D" w:rsidRPr="00B42EE9" w:rsidRDefault="00577728" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>HnS</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1941" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FFFFCC"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005C185D" w:rsidRPr="00B42EE9" w:rsidRDefault="00577728" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>md</w:t>
+                        </w:r>
+                        <w:r w:rsidR="0085584A">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Route</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00F879B0" w:rsidRPr="00B42EE9" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="00F879B0" w:rsidRPr="00B42EE9" w:rsidRDefault="00F879B0" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B42EE9" w:rsidRPr="00640A73" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FDE9D9" w:themeFill="accent6" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B42EE9" w:rsidRPr="00640A73" w:rsidRDefault="00B42EE9" w:rsidP="00B42EE9">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">LAN </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Routing</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00F61109" w:rsidRPr="00B42EE9" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3650" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FDE9D9" w:themeFill="accent6" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B42EE9" w:rsidRPr="00B42EE9" w:rsidRDefault="00B42EE9" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1852" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FDE9D9" w:themeFill="accent6" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B42EE9" w:rsidRPr="00B42EE9" w:rsidRDefault="00697FCE" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>DIRECT</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1845" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FDE9D9" w:themeFill="accent6" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B42EE9" w:rsidRPr="00B42EE9" w:rsidRDefault="00697FCE" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>STATIC</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1941" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FDE9D9" w:themeFill="accent6" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B42EE9" w:rsidRPr="00B42EE9" w:rsidRDefault="00697FCE" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>DYNAMIC</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00182501" w:rsidRPr="00B42EE9" w:rsidTr="00FD37BB">
+                <w:trPr>
+                    <w:trHeight w:val="186"/>
+                </w:trPr>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3650" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FDE9D9" w:themeFill="accent6" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00182501" w:rsidRPr="00B42EE9" w:rsidRDefault="00182501" w:rsidP="007510FC">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1852" w:type="dxa"/>
+                        <w:gridSpan w:val="2"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FDE9D9" w:themeFill="accent6" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00182501" w:rsidRDefault="00577728" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>dir</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1845" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FDE9D9" w:themeFill="accent6" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00182501" w:rsidRDefault="00577728" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>sta</w:t>
+                        </w:r>
+                        <w:r w:rsidR="0085584A">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>t</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="1941" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="FDE9D9" w:themeFill="accent6" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00182501" w:rsidRDefault="00577728" w:rsidP="00697FCE">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>dyn</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00F879B0" w:rsidRPr="00B42EE9" w:rsidTr="00B135C7">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="00F879B0" w:rsidRPr="00B42EE9" w:rsidRDefault="00F879B0" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="009C7CA0" w:rsidRPr="00B42EE9" w:rsidTr="00B135C7">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="E5B8B7" w:themeFill="accent2" w:themeFillTint="66"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="009C7CA0" w:rsidRPr="005D5A1F" w:rsidRDefault="005D5A1F" w:rsidP="005D5A1F">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="005D5A1F">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">LAN </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="005D5A1F">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Interface</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="005D5A1F">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="005D5A1F">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Settings</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="005D5A1F">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005D5A1F" w:rsidRPr="00B42EE9" w:rsidTr="00B135C7">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="E5B8B7" w:themeFill="accent2" w:themeFillTint="66"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00177CB3" w:rsidRDefault="00577728" w:rsidP="00177CB3">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>lan</w:t>
+                        </w:r>
+                        <w:r w:rsidR="0085584A">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>I</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                    <w:p w:rsidR="00177CB3" w:rsidRPr="00177CB3" w:rsidRDefault="00177CB3" w:rsidP="00177CB3">
+                        <w:pPr>
+                            <w:ind w:left="1416"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005D5A1F" w:rsidRPr="00B42EE9" w:rsidTr="00B135C7">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="8" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="005D5A1F" w:rsidRPr="00B42EE9" w:rsidRDefault="005D5A1F" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="002A7E3F" w:rsidRPr="00640A73" w:rsidTr="00B135C7">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="CCC0D9" w:themeFill="accent4" w:themeFillTint="66"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="002A7E3F" w:rsidRPr="00640A73" w:rsidRDefault="002A7E3F" w:rsidP="002A7E3F">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>DHCP:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="002A7E3F" w:rsidRPr="00B42EE9" w:rsidTr="00B135C7">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4503" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="CCC0D9" w:themeFill="accent4" w:themeFillTint="66"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="002A7E3F" w:rsidRPr="00B42EE9" w:rsidRDefault="002A7E3F" w:rsidP="002A7E3F">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">CE Router </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>as</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> DHCP Server</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4785" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="CCC0D9" w:themeFill="accent4" w:themeFillTint="66"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="002A7E3F" w:rsidRPr="00B42EE9" w:rsidRDefault="002A7E3F" w:rsidP="002A7E3F">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">CE Router </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>as</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"> DHCP </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Relay</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Agent</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="0058465B" w:rsidRPr="00B42EE9" w:rsidTr="00B135C7">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4503" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="CCC0D9" w:themeFill="accent4" w:themeFillTint="66"/>
+                        <w:vAlign w:val="center"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00B42EE9" w:rsidRDefault="00577728" w:rsidP="001D4E65">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>dhcpServer</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="4785" w:type="dxa"/>
+                        <w:gridSpan w:val="3"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="CCC0D9" w:themeFill="accent4" w:themeFillTint="66"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="0058465B" w:rsidRPr="00B42EE9" w:rsidRDefault="00577728" w:rsidP="00577728">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>dhcpAgent</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00F879B0" w:rsidRPr="00B42EE9" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="00D65A24" w:rsidRPr="00B42EE9" w:rsidRDefault="00D65A24" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00640A73" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="C6D9F1" w:themeFill="text2" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00640A73" w:rsidRDefault="005B5540" w:rsidP="005B5540">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>SNMP:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="C6D9F1" w:themeFill="text2" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRDefault="00577728" w:rsidP="00695308">
+                        <w:pPr>
+                            <w:ind w:left="708"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>s</w:t>
+                        </w:r>
+                        <w:r w:rsidR="0085584A">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>NetMng</w:t>
+                        </w:r>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>p</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                    <w:p w:rsidR="00B57D34" w:rsidRPr="00B42EE9" w:rsidRDefault="00B57D34" w:rsidP="00695308">
+                        <w:pPr>
+                            <w:ind w:left="708"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00F879B0" w:rsidRPr="00B42EE9" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="00F879B0" w:rsidRPr="00B42EE9" w:rsidRDefault="00F879B0" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00640A73" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="92CDDC" w:themeFill="accent5" w:themeFillTint="99"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00640A73" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Netflow:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00182501">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="92CDDC" w:themeFill="accent5" w:themeFillTint="99"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B57D34" w:rsidRDefault="00577728" w:rsidP="00577728">
+                        <w:pPr>
+                            <w:tabs>
+                                <w:tab w:val="left" w:pos="660"/>
+                            </w:tabs>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:tab/>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>netfl</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00B42EE9" w:rsidRDefault="00B51D01" w:rsidP="00481760">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00F879B0" w:rsidRPr="00B42EE9" w:rsidTr="00FD182F">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="00F879B0" w:rsidRPr="00B42EE9" w:rsidRDefault="00F879B0" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00640A73" w:rsidTr="00FD182F">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00640A73" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>QoS</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>ACLs</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="005B5540" w:rsidRDefault="005B5540" w:rsidP="005B5540">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="1"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Voice</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00547933" w:rsidRDefault="00577728" w:rsidP="00547933">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                            <w:t>vo</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00547933" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="005B5540" w:rsidRDefault="005B5540" w:rsidP="005B5540">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="1"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Voice</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Signalling</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00547933" w:rsidRDefault="00577728" w:rsidP="00547933">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                            <w:t>voiceSign</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00547933" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="005B5540" w:rsidRDefault="005B5540" w:rsidP="005B5540">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="1"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Business 1</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00547933" w:rsidRDefault="00577728" w:rsidP="00547933">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                            <w:t>bu1</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00547933" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="005B5540" w:rsidRDefault="005B5540" w:rsidP="005B5540">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="1"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Business 2</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00547933" w:rsidRDefault="00577728" w:rsidP="00547933">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                            <w:t>bu2</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00547933" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="005B5540" w:rsidRDefault="005B5540" w:rsidP="005B5540">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="1"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Business 3</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00547933" w:rsidRDefault="00577728" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                            <w:t>bu3</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00547933" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="005B5540" w:rsidRDefault="005B5540" w:rsidP="005B5540">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="1"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Stream</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00547933" w:rsidRDefault="00577728" w:rsidP="00547933">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                            <w:t>stream</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="005B5540" w:rsidRDefault="005B5540" w:rsidP="005B5540">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="1"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">Network </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Control</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00577728" w:rsidRDefault="00577728" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00577728">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                            <w:t>nc</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="005B5540" w:rsidRDefault="005B5540" w:rsidP="005B5540">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="1"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Economy</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRPr="00577728" w:rsidRDefault="00577728" w:rsidP="0032174E">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:bookmarkStart w:id="0" w:name="_GoBack"/>
+                        <w:bookmarkEnd w:id="0"/>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00577728">
+                            <w:rPr>
+                                <w:rFonts w:ascii="Courier New" w:hAnsi="Courier New" w:cs="Courier New"/>
+                                <w:sz w:val="20"/>
+                                <w:szCs w:val="20"/>
+                            </w:rPr>
+                            <w:t>ec</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00B51D01" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRDefault="00B51D01" w:rsidP="00B51D01">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:ind w:left="1440"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00B51D01" w:rsidRDefault="00B51D01" w:rsidP="0032174E">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="0058465B" w:rsidRPr="00B42EE9" w:rsidTr="00267347">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="3369" w:type="dxa"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="0058465B" w:rsidRPr="00B51D01" w:rsidRDefault="00B51D01" w:rsidP="00B51D01">
+                        <w:pPr>
+                            <w:jc w:val="right"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00B51D01">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>Other</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00B51D01">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00B51D01">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>QoS</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00B51D01">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00B51D01">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>related</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00B51D01">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidRPr="00B51D01">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>remarks</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00B51D01">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="5919" w:type="dxa"/>
+                        <w:gridSpan w:val="5"/>
+                        <w:tcBorders>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="EAF1DD" w:themeFill="accent3" w:themeFillTint="33"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="0058465B" w:rsidRPr="00B42EE9" w:rsidRDefault="0058465B" w:rsidP="0032174E">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidTr="00FD182F">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00B42EE9" w:rsidRDefault="005B5540" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="005B5540" w:rsidRPr="00640A73" w:rsidTr="00FD182F">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="C4BC96" w:themeFill="background2" w:themeFillShade="BF"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="005B5540" w:rsidRPr="00640A73" w:rsidRDefault="00E47894" w:rsidP="005B5540">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Special</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:r w:rsidR="00157792">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve">PE </w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r w:rsidR="00157792">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>S</w:t>
+                        </w:r>
+                        <w:r w:rsidR="00FD182F">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>ettings</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidR="005B5540" w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00F879B0" w:rsidRPr="00B42EE9" w:rsidTr="00FD182F">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="C4BC96" w:themeFill="background2" w:themeFillShade="BF"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00F879B0" w:rsidRDefault="00F879B0" w:rsidP="00F879B0">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                    <w:p w:rsidR="0021549F" w:rsidRPr="005B5540" w:rsidRDefault="0021549F" w:rsidP="00B57D34">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00D81F87" w:rsidRPr="00B42EE9" w:rsidTr="00ED6737">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="00D81F87" w:rsidRPr="00B42EE9" w:rsidRDefault="00D81F87" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00D81F87" w:rsidRPr="00640A73" w:rsidTr="00ED6737">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="CDA889"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00D81F87" w:rsidRPr="00640A73" w:rsidRDefault="00FD182F" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Other</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Specialities</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidR="00D81F87" w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00D81F87" w:rsidRPr="00B42EE9" w:rsidTr="00ED6737">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="CDA889"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00D81F87" w:rsidRDefault="00D81F87" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                    <w:p w:rsidR="00F92007" w:rsidRPr="00B42EE9" w:rsidRDefault="00F92007" w:rsidP="00B57D34">
+                        <w:pPr>
+                            <w:ind w:left="708"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00D81F87" w:rsidRPr="00B42EE9" w:rsidTr="00ED6737">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                    </w:tcPr>
+                    <w:p w:rsidR="00D81F87" w:rsidRPr="00B42EE9" w:rsidRDefault="00D81F87" w:rsidP="00F67475">
+                        <w:pPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00FD182F" w:rsidRPr="00640A73" w:rsidTr="00ED6737">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="A6A6A6" w:themeFill="background1" w:themeFillShade="A6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00FD182F" w:rsidRPr="00640A73" w:rsidRDefault="00FD182F" w:rsidP="009B6634">
+                        <w:pPr>
+                            <w:pStyle w:val="Listaszerbekezds"/>
+                            <w:numPr>
+                                <w:ilvl w:val="0"/>
+                                <w:numId w:val="1"/>
+                            </w:numPr>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                        </w:pPr>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t xml:space="preserve"></w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellStart"/>
+                        <w:r>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>Templates</w:t>
+                        </w:r>
+                        <w:proofErr w:type="spellEnd"/>
+                        <w:r w:rsidRPr="00640A73">
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="28"/>
+                                <w:szCs w:val="28"/>
+                            </w:rPr>
+                            <w:t>:</w:t>
+                        </w:r>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+            <w:tr w:rsidR="00FD182F" w:rsidRPr="00B42EE9" w:rsidTr="00ED6737">
+                <w:tc>
+                    <w:tcPr>
+                        <w:tcW w:w="9288" w:type="dxa"/>
+                        <w:gridSpan w:val="6"/>
+                        <w:tcBorders>
+                            <w:top w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:left w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:bottom w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                            <w:right w:val="single" w:sz="12" w:space="0" w:color="auto"/>
+                        </w:tcBorders>
+                        <w:shd w:val="clear" w:color="auto" w:fill="A6A6A6" w:themeFill="background1" w:themeFillShade="A6"/>
+                    </w:tcPr>
+                    <w:p w:rsidR="00FD182F" w:rsidRDefault="00FD182F" w:rsidP="009B6634">
+                        <w:pPr>
+                            <w:jc w:val="center"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                    <w:p w:rsidR="00FD182F" w:rsidRPr="00B42EE9" w:rsidRDefault="00FD182F" w:rsidP="009B6634">
+                        <w:pPr>
+                            <w:ind w:left="708"/>
+                            <w:rPr>
+                                <w:b/>
+                                <w:sz w:val="24"/>
+                                <w:szCs w:val="24"/>
+                            </w:rPr>
+                        </w:pPr>
+                    </w:p>
+                </w:tc>
+            </w:tr>
+        </w:tbl>
+        <w:p w:rsidR="00E96B8D" w:rsidRPr="00640A73" w:rsidRDefault="00E96B8D" w:rsidP="00640A73">
+            <w:pPr>
+                <w:rPr>
+                    <w:b/>
+                    <w:sz w:val="24"/>
+                    <w:szCs w:val="24"/>
+                </w:rPr>
+            </w:pPr>
+        </w:p>
+        <w:sectPr w:rsidR="00E96B8D" w:rsidRPr="00640A73" w:rsidSect="00FD182F">
+            <w:pgSz w:w="11906" w:h="16838"/>
+            <w:pgMar w:top="1417" w:right="1417" w:bottom="1417" w:left="1417" w:header="708" w:footer="708" w:gutter="0"/>
+            <w:cols w:space="708"/>
+            <w:docGrid w:linePitch="360"/>
+        </w:sectPr>
+    </w:body>
+</w:document>
